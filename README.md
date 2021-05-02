@@ -8,6 +8,6 @@
 </br>
 
 ## 강의 목차(Lecture Contents)
-- ### [Chapter 01. Bruete Force (20문제)](./01_Brute_force/)
+- ### [Chapter 01. Bruete Force (20문제)](./01_Brute_Force/)
 - ### [Chapter 02. Sort Application (15문제)](./02_Sort_Application/)
 - ### (추가 업데이트 예정)
