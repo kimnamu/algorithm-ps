@@ -12,4 +12,6 @@
 - ### [Chapter 02. Sort Application (15문제)](./02_Sort_Application/)
 - ### [Chapter 03. Binary Search (15문제)](./03_Binary_Search/)
 - ### [Chapter 04. Two Pointers (15문제)](./04_Two_Pointers/)
+- ### [Chapter 05. Graph Search (20문제)](./05_Graph_Search/)
+- ### [Chapter 06. Tree (15문제)](./06_Tree/)
 - ### (추가 업데이트 예정)
