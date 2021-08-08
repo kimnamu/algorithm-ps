@@ -17,6 +17,3 @@
 - ### [Chapter 07. Topological Sorting (5문제)](./07_Topological_sorting/)
 - ### [Chapter 08. Shortest Path (10문제)](./08_Shortest_Path/)
 - ### (추가 업데이트 예정)
-
-
- git commit -m "add 07, 08 chapter and update 02, 03, 04 chapter"
