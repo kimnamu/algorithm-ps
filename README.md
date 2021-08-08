@@ -9,9 +9,14 @@
 
 ## 강의 목차(Lecture Contents)
 - ### [Chapter 01. Bruete Force (20문제)](./01_Brute_Force/)
-- ### [Chapter 02. Sort Application (15문제)](./02_Sort_Application/)
-- ### [Chapter 03. Binary Search (15문제)](./03_Binary_Search/)
-- ### [Chapter 04. Two Pointers (15문제)](./04_Two_Pointers/)
+- ### [Chapter 02. Sort Application (20문제)](./02_Sort_Application/)
+- ### [Chapter 03. Binary Search (20문제)](./03_Binary_Search/)
+- ### [Chapter 04. Two Pointers (20문제)](./04_Two_Pointers/)
 - ### [Chapter 05. Graph Search (20문제)](./05_Graph_Search/)
 - ### [Chapter 06. Tree (15문제)](./06_Tree/)
+- ### [Chapter 07. Topological Sorting (5문제)](./07_Topological_sorting/)
+- ### [Chapter 08. Shortest Path (10문제)](./08_Shortest_Path/)
 - ### (추가 업데이트 예정)
+
+
+ git commit -m "add 07, 08 chapter and update 02, 03, 04 chapter"
