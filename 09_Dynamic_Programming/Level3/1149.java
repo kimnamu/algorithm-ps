@@ -1,0 +1,46 @@
+// RGB거리
+// https://www.acmicpc.net/problem/1149
+// 힌트
+// 1. Bottom UP Dynamic Programming을 이용하여 순차적으로 가장 작은 값이 되는 답을 찾는다.
+// 2. 이때, 각 색깔이 연달아 이어지면 안되기 때문에 이번에 R을 선택할 경우 이전 G, B 중 최소거리 값을 이어 받도록한다. G, B도 마찬가지이다.
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class Main {
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
+		int n = Integer.parseInt(br.readLine());
+		
+	    int[] r = new int[n];
+	    int[] g = new int[n];
+	    int[] b = new int[n];
+	    
+	    int[][] dp = new int[3][n];
+	    
+	    for (int i = 0; i < n; i++)
+	    {
+	    	StringTokenizer st = new StringTokenizer(br.readLine());
+	        r[i] = Integer.parseInt(st.nextToken());
+	        g[i] = Integer.parseInt(st.nextToken());
+	        b[i] = Integer.parseInt(st.nextToken());
+	    }
+
+	    dp[0][0] = r[0];
+	    dp[1][0] = g[0];
+	    dp[2][0] = b[0];
+
+	    for (int i = 1; i < n; i++)
+	    {
+	        dp[0][i] = Math.min(dp[1][i - 1], dp[2][i - 1]) + r[i];
+	        dp[1][i] = Math.min(dp[2][i - 1], dp[0][i - 1]) + g[i];
+	        dp[2][i] = Math.min(dp[0][i - 1], dp[1][i - 1]) + b[i];
+	    }
+	    
+	    System.out.println(Math.min(Math.min(dp[0][n - 1], dp[1][n - 1]), dp[2][n - 1]));		
+	}
+
+}

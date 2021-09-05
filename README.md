@@ -16,4 +16,4 @@
 - ### [Chapter 06. Tree (15문제)](./06_Tree/)
 - ### [Chapter 07. Topological Sorting (5문제)](./07_Topological_sorting/)
 - ### [Chapter 08. Shortest Path (10문제)](./08_Shortest_Path/)
-- ### (추가 업데이트 예정)
+- ### [Chapter 09. Dynamic Programming (20문제)](./09_Dynamic_Programming/)
