@@ -1,4 +1,4 @@
-## 목차
+## Contents
 - ### [Chapter 01. Bruete Force (20문제)](./01_Brute_Force/)
 - ### [Chapter 02. Sort Application (20문제)](./02_Sort_Application/)
 - ### [Chapter 03. Binary Search (20문제)](./03_Binary_Search/)
