@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 섬의 개수
 # https://www.acmicpc.net/problem/4963
 # 힌트

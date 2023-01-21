@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 숨바꼭질 3
 // https://www.acmicpc.net/problem/13549
 // 1. BFS를 이용하여 최단거리로 도달할 수 있는 방법을 찾는다.

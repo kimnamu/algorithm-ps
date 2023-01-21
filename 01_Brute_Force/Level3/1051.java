@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 숫자 정사각형
 // https://www.acmicpc.net/problem/1051
 import java.util.Scanner;

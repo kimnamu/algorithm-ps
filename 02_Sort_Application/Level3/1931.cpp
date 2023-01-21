@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 회의실 배정
 // https://www.acmicpc.net/problem/1931
 // 힌트

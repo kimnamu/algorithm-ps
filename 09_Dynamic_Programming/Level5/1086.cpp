@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 박성원
 // https://www.acmicpc.net/problem/1086
 // 힌트 (참조 : https://suuntree.tistory.com/124)

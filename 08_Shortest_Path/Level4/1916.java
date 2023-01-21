@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 최소비용 구하기
 // https://www.acmicpc.net/problem/1916
 // 힌트

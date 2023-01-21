@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 입국심사
 // https://www.acmicpc.net/problem/3079
 // 힌트

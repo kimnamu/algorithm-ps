@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 꼬인 전깃줄
 # https://www.acmicpc.net/problem/1365
 # 힌트

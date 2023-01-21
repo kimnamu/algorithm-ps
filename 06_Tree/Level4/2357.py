@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 최솟값과 최댓값
 # https://www.acmicpc.net/problem/2357
 # 힌트

@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 보석 상자
 // https://www.acmicpc.net/problem/2792
 // 힌트

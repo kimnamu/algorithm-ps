@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 소수의 연속합
 # https://www.acmicpc.net/problem/1644
 # 힌트

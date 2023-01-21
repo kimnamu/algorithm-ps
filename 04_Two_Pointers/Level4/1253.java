@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // https://www.acmicpc.net/problem/1253
 // 힌트
 // 1. 먼저 주어진 수열을 정렬한다.

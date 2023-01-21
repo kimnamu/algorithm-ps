@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 import java.util.Scanner;
 import java.util.StringTokenizer;
 import java.util.Arrays;

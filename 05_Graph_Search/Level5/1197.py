@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 최소 스패닝 트리
 # https://www.acmicpc.net/problem/1197
 # 힌트

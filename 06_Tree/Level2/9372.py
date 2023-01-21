@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 상근이의 여행
 # https://www.acmicpc.net/problem/9372
 # 힌트

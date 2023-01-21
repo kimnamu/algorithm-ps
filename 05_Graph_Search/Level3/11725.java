@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 //트리의 부모 찾기
 //https://www.acmicpc.net/problem/11725
 //힌트

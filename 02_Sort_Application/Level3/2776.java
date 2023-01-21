@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 //암기왕
 //https://www.acmicpc.net/problem/2776
 //1. N과 M을 일일이 비교하면 복잡도가 O(NM)이기 때문에 시간 초과가 된다.

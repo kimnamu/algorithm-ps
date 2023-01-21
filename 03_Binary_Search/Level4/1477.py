@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 휴게소 세우기
 # https://www.acmicpc.net/problem/1477
 # 힌트

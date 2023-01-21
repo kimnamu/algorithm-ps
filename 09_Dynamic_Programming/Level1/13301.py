@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 타일 장식물
 # https://www.acmicpc.net/problem/13301
 # 힌트

@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // K번째 최단경로 찾기
 // https://www.acmicpc.net/problem/1854
 // 1. 다익스트라 알고리즘의 원리에 탑승해, 각 지점 별 경로의 길이를 저장하여 해당 지점의 K번째 최단 경로를 찾는다.

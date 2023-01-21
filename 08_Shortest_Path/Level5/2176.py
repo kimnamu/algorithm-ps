@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 합리적인 이동경로
 # https://www.acmicpc.net/problem/2176
 # 힌트

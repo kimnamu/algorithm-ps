@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # N-Queen
 # https://www.acmicpc.net/problem/9663
 # 힌트 : 세로줄은 column 값으로 확인가능

@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 부분수열의 합
 # https://www.acmicpc.net/problem/14225
 from itertools import combinations

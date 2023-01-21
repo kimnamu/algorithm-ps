@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 평범한 배낭
 // https://www.acmicpc.net/problem/12865
 // 힌트

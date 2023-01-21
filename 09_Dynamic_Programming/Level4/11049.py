@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 행렬 곱셈 순서
 # https://www.acmicpc.net/problem/11049
 # 힌트

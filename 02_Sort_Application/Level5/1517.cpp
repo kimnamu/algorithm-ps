@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 버블 소트
 // https://www.acmicpc.net/problem/1517
 // 힌트

@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 좌표 정렬하기
 // https://www.acmicpc.net/problem/11650
 #include <iostream>

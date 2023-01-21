@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 리모컨
 # https://www.acmicpc.net/problem/1107
 # 힌트

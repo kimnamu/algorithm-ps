@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 개똥벌레
 // https://www.acmicpc.net/problem/3020
 // 힌트

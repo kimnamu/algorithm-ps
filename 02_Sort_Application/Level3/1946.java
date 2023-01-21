@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 //신입 사원
 //https://www.acmicpc.net/problem/1946
 

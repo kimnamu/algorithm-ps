@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 용돈 관리
 # https://www.acmicpc.net/problem/6236
 # 힌트

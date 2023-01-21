@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 자동차경주
 // https://www.acmicpc.net/problem/2611
 // 힌트

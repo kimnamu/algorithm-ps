@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 귀여운 라이언
 // https://www.acmicpc.net/problem/15565
 // 힌트

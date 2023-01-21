@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # N번째 큰 수
 # https://www.acmicpc.net/problem/2075
 # 힌트

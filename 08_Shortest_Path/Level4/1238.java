@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 //파티
 //https://www.acmicpc.net/problem/1238
 //1. 다익스트라 알고리즘을 이용하여 모든 지점에서 X까지 가는 길의 최소 시간을 계산해준다.

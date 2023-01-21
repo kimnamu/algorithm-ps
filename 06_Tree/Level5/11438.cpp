@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // LCA 2
 // https://www.acmicpc.net/problem/11438
 // 힌트

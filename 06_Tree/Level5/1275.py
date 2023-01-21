@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 커피숍2
 # https://www.acmicpc.net/problem/1275
 # 힌트

@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 완전 이진 트리
 # https://www.acmicpc.net/problem/9934
 # 힌트

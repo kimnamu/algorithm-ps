@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 두 개의 탑
 # https://www.acmicpc.net/problem/2118
 # 힌트

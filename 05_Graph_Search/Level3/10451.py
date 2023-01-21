@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 촌수계산
 # https://www.acmicpc.net/problem/2644
 # 힌트

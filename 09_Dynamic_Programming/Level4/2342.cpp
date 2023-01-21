@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // Dance Dance Revolution
 // https://www.acmicpc.net/problem/2342
 // 1. Memoization을 이용하여 왼발, 오른발, 차례에 따른 최소 비용 값을 갱신해준다.

@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 수 묶기
 // https://www.acmicpc.net/problem/1744
 // 힌트

@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 두 용액
 # https://www.acmicpc.net/problem/2470
 # 힌트

@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 토마토
 # https://www.acmicpc.net/problem/7576
 # 힌트

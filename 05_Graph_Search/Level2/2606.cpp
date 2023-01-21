@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 바이러스
 // https://www.acmicpc.net/problem/2606
 // 1. DFS를 활용하여 1번 바이러스와 이어져있는 컴퓨터를 모두 찾으며 counting한다.

@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 수열의 장인
 // https://www.acmicpc.net/problem/10885
 // 힌트

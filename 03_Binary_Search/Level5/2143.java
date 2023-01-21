@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 두 배열의 합
 // https://www.acmicpc.net/problem/2143
 // 힌트

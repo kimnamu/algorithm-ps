@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 알파벳
 // https://www.acmicpc.net/problem/1987
 // 힌트

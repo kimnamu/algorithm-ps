@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 체스판 다시 칠하기
 // https://www.acmicpc.net/problem/1018
 #include <iostream>

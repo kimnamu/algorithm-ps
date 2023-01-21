@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 //연구소
 //https://www.acmicpc.net/problem/14502
 //힌트

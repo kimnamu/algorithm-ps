@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 부동산 다툼
 // https://www.acmicpc.net/problem/20364
 // 힌트

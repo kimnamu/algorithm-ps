@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 음주 코딩
 # https://www.acmicpc.net/problem/5676
 # 힌트

@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 차이를 최대로
 # https://www.acmicpc.net/problem/10819
 # 순열을 이용하여 Brute-Force로 푸는 문제.

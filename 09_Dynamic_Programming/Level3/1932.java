@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 정수 삼각형
 // https://www.acmicpc.net/problem/1932
 // 힌트

@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 암호 만들기
 # https://www.acmicpc.net/problem/1759
 # 힌트

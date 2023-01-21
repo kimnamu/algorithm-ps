@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 부분합
 # https://www.acmicpc.net/problem/1806
 # 힌트

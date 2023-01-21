@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 특정한 최단 경로
 // https://www.acmicpc.net/problem/1504
 // 1. 다익스트라 알고리즘을 이용하여 v1과 v2로 부터 모든 지점에 대한 최단 거리를 구한다.

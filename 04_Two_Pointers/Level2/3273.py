@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 두 수의 합
 # https://www.acmicpc.net/problem/3273
 # 힌트

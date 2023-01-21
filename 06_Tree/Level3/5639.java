@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 이진 검색 트리
 // https://www.acmicpc.net/problem/5639
 // 힌트

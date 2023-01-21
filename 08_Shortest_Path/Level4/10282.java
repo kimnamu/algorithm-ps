@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 해킹
 // https://www.acmicpc.net/problem/10282
 // 1. 다익스트라 알고리즘을 활용하여 가장 처음 감염된 C로 부터 다른 노드까지의 최단거리를 구하면 된다.

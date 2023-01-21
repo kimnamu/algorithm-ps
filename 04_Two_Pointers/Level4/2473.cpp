@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 세 용액
 // https://www.acmicpc.net/problem/2473
 // 힌트

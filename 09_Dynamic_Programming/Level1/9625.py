@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # BABBA
 # https://www.acmicpc.net/problem/9625
 # 힌트

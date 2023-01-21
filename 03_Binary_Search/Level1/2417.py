@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 정수 제곱근
 # https://www.acmicpc.net/problem/2417
 # 힌트

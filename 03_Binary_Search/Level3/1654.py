@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 나무 자르기
 # https://www.acmicpc.net/problem/2805
 # 힌트

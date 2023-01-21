@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 나이트의 이동
 # https://www.acmicpc.net/problem/7562
 # 힌트

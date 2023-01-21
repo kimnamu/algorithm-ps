@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 녹색 옷 입은 애가 젤다지?
 # https://www.acmicpc.net/problem/4485
 # 1. bfs를 통해 0,0에서 상, 하, 좌, 우로 한칸씩 순회하며 순회하는 위치에서 최소비용으로 도달할 경우,

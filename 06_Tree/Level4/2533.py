@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 사회망 서비스(SNS)
 # https://www.acmicpc.net/problem/2533
 # 힌트

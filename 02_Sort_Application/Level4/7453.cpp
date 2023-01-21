@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 합이 0인 네 정수
 // https://www.acmicpc.net/problem/7453
 // 힌트

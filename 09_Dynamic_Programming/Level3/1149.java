@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // RGB거리
 // https://www.acmicpc.net/problem/1149
 // 힌트

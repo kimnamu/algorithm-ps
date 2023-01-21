@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 좌표 압축
 // https://www.acmicpc.net/problem/18870
 // 힌트

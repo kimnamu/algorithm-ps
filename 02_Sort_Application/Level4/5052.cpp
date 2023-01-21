@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 전화번호 목록
 // https://www.acmicpc.net/problem/5052
 // 힌트

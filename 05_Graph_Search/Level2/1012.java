@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 유기농 배추
 // https://www.acmicpc.net/problem/1012
 // 힌트

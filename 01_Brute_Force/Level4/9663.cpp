@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // N-Queen
 // https://www.acmicpc.net/problem/9663
 #include <iostream>

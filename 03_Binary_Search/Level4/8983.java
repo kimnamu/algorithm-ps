@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 사냥꾼
 // https://www.acmicpc.net/problem/8983
 // 힌트

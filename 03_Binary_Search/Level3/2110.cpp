@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 공유기 설치
 // https://www.acmicpc.net/problem/2110
 // 힌트

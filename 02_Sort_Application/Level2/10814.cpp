@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 나이순 정렬
 // https://www.acmicpc.net/problem/10814
 #include <iostream>

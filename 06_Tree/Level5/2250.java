@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 트리의 높이와 너비
 // https://www.acmicpc.net/problem/2250
 // 힌트

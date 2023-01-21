@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 보물
 # https://www.acmicpc.net/problem/11004
 # 힌트

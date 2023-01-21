@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 종이 조각
 // https://www.acmicpc.net/problem/14391
 import java.util.Scanner;

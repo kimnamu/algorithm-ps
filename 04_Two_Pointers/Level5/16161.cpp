@@ -1,3 +1,4 @@
+// Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 // 가장 긴 증가하는 팰린드롬 부분수열
 // https://www.acmicpc.net/problem/16161
 // 힌트

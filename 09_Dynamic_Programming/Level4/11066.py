@@ -1,3 +1,4 @@
+# Copyright@2023 Jihoon Lucas Kim <jihoon.lucas.kim@gmail.com>
 # 파일 합치기
 # https://www.acmicpc.net/problem/11066
 # 힌트
